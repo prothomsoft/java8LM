@@ -1,0 +1,3 @@
+https://gist.github.com/szpak/b3e869222c9a8aa9db80 - TDD z IntelliJ Idea
+https://gist.github.com/szpak/f7517c7c327dc3a7b59f - TDD z Eclipse
+https://gist.github.com/szpak/56063d55fe64c160c5d0 - dodatkowe materiały i literatura

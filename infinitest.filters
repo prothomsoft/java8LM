@@ -1,0 +1,5 @@
+#issue with current directory
+.*J08_FilesTest
+#expensive operations on large number of threads
+.*J13_AsyncAgentTest
+.*J05_MultiRunnerTest
